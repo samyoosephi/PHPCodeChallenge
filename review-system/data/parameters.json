@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Drama Parameter 1",
+        "genre": "DRAMA"
+    },
+    {
+        "title": "Drama Parameter 2",
+        "genre": "DRAMA"
+    },
+    {
+        "title": "Drama Parameter 3",
+        "genre": "DRAMA"
+    },
+    {
+        "title": "Comedy Parameter 1",
+        "genre": "COMEDY"
+    },
+    {
+        "title": "Action Parameter 1",
+        "genre": "ACTION"
+    },
+    {
+        "title": "Action Parameter 2",
+        "genre": "ACTION"
+    }
+]

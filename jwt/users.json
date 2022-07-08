@@ -1,0 +1,20 @@
+[
+    {
+        "ID" : "UID_01",
+        "username" : "sample_user_01",
+        "password" : "sample_pass_01",
+        "keys" : ["su01_k1", "su01_k2"]
+    },
+    {
+        "ID" : "UID_02",
+        "username" : "sample_user_02",
+        "password" : "sample_pass_02",
+        "keys" : ["su02_k1", "su02_k2"]
+    },
+    {
+        "ID" : "UID_03",
+        "username" : "sample_user_03",
+        "password" : "sample_pass_03",
+        "keys" : ["su03_k1", "su03_k2"]
+    }
+]
